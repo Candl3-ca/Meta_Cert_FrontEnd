@@ -2,6 +2,5 @@
 
 Here I will be posting all my projects.<br><br>
 
-> ### **Filter out by project**
+> ### **Filtering out by project**
 > #### **Please view every project by section per repo.
-> - 
