@@ -3,25 +3,29 @@ body {
 }
 
 h1 {
-    background-color: #721817 ;
+    color: #721817;
 }
 
 h2 {
-    background-color: #721817 ;
+    color: #721817;
 }
 
-logo {
+.center-text {
+    text-align: center;
+}
+
+#logo {
     margin-left: auto;
     margin-right: auto;
     display: block;
 }
 
-h2 > span {
-color: #FA9F42;
-font-size: 0.75em;
+h2>span {
+    color: #FA9F42;
+    font-size: 0.75em;
 }
 
-copyright {
-    padding-top: 12px;
+#copyright {
     font-size: 0.75em;
+    padding-top: 12px;
 }
